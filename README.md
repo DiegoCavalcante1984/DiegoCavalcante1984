@@ -7,9 +7,11 @@
 - ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-blue) 🧪
 - ![Automação](https://img.shields.io/badge/-Automação%20de%20Testes-green) 🤖
 - ![API Test](https://img.shields.io/badge/-Testes%20de%20API-orange) 🔌
-- #Estou cursando Formação em Teste de Software - ##Iterasys
+
 
 Profissional em transição de carreira para a área de Qualidade de Software (QA).
+
+- Estou cursando Formação em Teste de Software - Iterasys<img src="https://iterasys.com.br/pt/logo.png" alt="Iterasys" width="120"/>
 
 
 
