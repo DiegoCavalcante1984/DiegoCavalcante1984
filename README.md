@@ -1,9 +1,13 @@
 ### Olá,Eu sou Diego Cavalcante  👋
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cavalcante-1425a91bb/)
 
+- ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-blue) 🧪
+- ![Automação](https://img.shields.io/badge/-Automação%20de%20Testes-green) 🤖
+- ![API Test](https://img.shields.io/badge/-Testes%20de%20API-orange) 🔌
+
 Profissional em transição de carreira para a área de Qualidade de Software (QA).
 
-Tenho grande interesse por tecnologia e estou me especializando em testes manuais e automação de testes para garantir a qualidade e eficiência dos sistemas.
+
 
 💡 Habilidades e conhecimentos:
 
