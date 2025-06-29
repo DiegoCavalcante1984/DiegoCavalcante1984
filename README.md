@@ -5,6 +5,8 @@
 
 
 - ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-blue) 🧪
+                                                                - ![Imagem Lovepik](https://img.lovepik.com/element/45009/4971.png_860.png)
+
 - ![Automação](https://img.shields.io/badge/-Automação%20de%20Testes-green) 🤖
 - ![API Test](https://img.shields.io/badge/-Testes%20de%20API-orange) 🔌
 
