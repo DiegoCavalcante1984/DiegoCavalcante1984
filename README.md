@@ -11,7 +11,7 @@
 
 Profissional em transição de carreira para a área de Qualidade de Software (QA).
 
-- Estou cursando Formação em Teste de Software     -    <img src="https://bstqb.qa/system/files/styles/largura_360/private/logo-atp/logo_iterasys_1.png?itok=FRkJYYjq" alt="Logo Iterasys" width="70"/>
+- Estou cursando Formação em Teste de Software     -    <img src="https://bstqb.qa/system/files/styles/largura_360/private/logo-atp/logo_iterasys_1.png?itok=FRkJYYjq" alt="Logo Iterasys" width="120"/>
 
 
 
