@@ -5,10 +5,9 @@
 
 
 - ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-blue) 🧪
-                                                                - ![Imagem Lovepik](https://img.lovepik.com/element/45009/4971.png_860.png)
-
 - ![Automação](https://img.shields.io/badge/-Automação%20de%20Testes-green) 🤖
 - ![API Test](https://img.shields.io/badge/-Testes%20de%20API-orange) 🔌
+- #Estou cursando Formação em Teste de Software - ##Iterasys
 
 Profissional em transição de carreira para a área de Qualidade de Software (QA).
 
@@ -18,12 +17,16 @@ Profissional em transição de carreira para a área de Qualidade de Software (Q
 
 
 ✔ Planejamento de Testes (Análise de Riscos, Análise de Pareto e Mapa Mental)
+
 ✔ Análise, Modelagem e Implementação de Testes (Técnicas de Caixa Preta)
+
 ✔ Gerenciamento de requisitos, estórias de usuários e defeitos com Microsoft Azure DevOps
+
 ✔ Execução de Testes Manuais Baseados em Mapa Mental, Casos de Teste e Testes Exploratórios
+
 ✔ Automação de Testes com Selenium WebDriver, Behave, Robot Framework e PyTest
 
-🛠 Tecnologias:
+🛠 Atualmente estudando:
 
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
