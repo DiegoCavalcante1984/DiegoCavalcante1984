@@ -11,7 +11,8 @@
 
 Profissional em transição de carreira para a área de Qualidade de Software (QA).
 
-- Estou cursando Formação em Teste de Software - Iterasys<img src="https://iterasys.com.br/pt/wp-content/uploads/2024/xx/logo.png"  alt="Iterasys" width="120"/>
+- Estou cursando Formação em Teste de Software - Iterasys<img src="https://img-c.udemycdn.com/user/200_H/29304644_51c3_5.jpg" alt="Logo Udemy ou curso" width="120"/>
+
 
 
 
