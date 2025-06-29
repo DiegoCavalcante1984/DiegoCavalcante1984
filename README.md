@@ -1,7 +1,7 @@
 ### Olá,Eu sou Diego Cavalcante  👋
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-cavalcante-1425a91bb/)
 
-📧 Email: [seuemail@gmail.com](mailto:seuemail@gmail.com)
+📧 Email: [diegocavalcante1984@gmail.com](mailto:diegocavalcante1984@gmail.com)
 
 
 - ![Testes Manuais](https://img.shields.io/badge/-Testes%20Manuais-blue) 🧪
