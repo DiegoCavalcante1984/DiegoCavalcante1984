@@ -6,6 +6,8 @@ Profissional em transição de carreira para a área de Qualidade de Software (Q
 Tenho grande interesse por tecnologia e estou me especializando em testes manuais e automação de testes para garantir a qualidade e eficiência dos sistemas.
 
 💡 Habilidades e conhecimentos:
+
+
 ✔ Planejamento de Testes (Análise de Riscos, Análise de Pareto e Mapa Mental)
 ✔ Análise, Modelagem e Implementação de Testes (Técnicas de Caixa Preta)
 ✔ Gerenciamento de requisitos, estórias de usuários e defeitos com Microsoft Azure DevOps
